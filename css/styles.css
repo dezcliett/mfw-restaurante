@@ -48,6 +48,7 @@ nav.navbar {
 .carousel-caption {
     z-index: 10;
     padding-bottom: 60px;
+    color: red;
 }
 .carousel-inner .item {
     width: 100%;
@@ -87,7 +88,7 @@ nav.navbar {
 #our_story h2 {
     font-family: 'Lobster', cursive;
     color: #f8512f;
-    font-size: 8rem;
+    font-size: 16rem;
     text-shadow: 1px 1px 5px #0a0a0a;
 }
 #our_story h3 {
